@@ -1,0 +1,10 @@
+{
+  "name": "Last Call",
+  "description": "The song Last Call from the Va-11 Hall-a soundtrack.",
+  "author": "Anonymongoose",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
